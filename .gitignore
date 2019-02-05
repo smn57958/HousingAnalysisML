@@ -1,0 +1,4 @@
+*.log
+metastore_db/
+__pycache__/
+.ipynb_checkpoints/
